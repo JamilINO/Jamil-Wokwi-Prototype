@@ -1,4 +1,3 @@
-// Edicao
 /*
     Copyright © 2024 Marcos Alexandre Vieira, Mateus Felipe da Silveira Vieira
 
